@@ -1,0 +1,2 @@
+# matlab-word-strain-stress
+这个matlab程序主要是采用不同模型处理混凝土应力应变数据并将结果输出到word中
